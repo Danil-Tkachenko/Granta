@@ -1,0 +1,31 @@
+@media (max-width:1620px){
+    .menu__item + .menu__item {
+        margin-left: 50px;
+    }
+    .header__content {
+        margin-top: 500px;
+    }
+    .header {
+        max-height: 70vh;
+    }
+}
+
+@media (max-width:1300px){
+    .logo{
+        display: none;
+    }
+    .menu{
+        margin: 0 auto;
+    }
+    .menu__item + .menu__item {
+        margin-left: 200px;
+    }
+}
+
+@media (max-width:800px){
+    .header {
+        background-size: 200% 100%;
+        background-position-x: 55%;
+
+    }
+}
