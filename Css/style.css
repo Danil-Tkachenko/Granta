@@ -27,7 +27,7 @@ a{
 /* Header */
 
 .header {
-    background-image: url(../img/lada__BG.jpg);
+    background-image: url(lada__BG.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
